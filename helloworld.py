@@ -2,5 +2,3 @@
 Type "help", "copyright", "credits" or "license()" for more information.'''
 
 print("Hello World")
-for i in range(1,6):
-    print(i*'* ')
